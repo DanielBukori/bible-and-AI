@@ -1,0 +1,18 @@
+{
+  "name": "Biblia na Unabii",
+  "short_name": "Biblia+",
+  "description": "Mwalimu wa Biblia na Roho ya Unabii kwa Kiswahili na Kiingereza.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5EDDF",
+  "theme_color": "#12304F",
+  "lang": "sw",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
